@@ -1,5 +1,0 @@
-numpy
-sounddevice
-Pillow
-scipy
-matplotlib
