@@ -4,4 +4,4 @@
 
 Possible use of AI ! 🤖🐍
 
-Licence MIT
+License MIT
