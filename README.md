@@ -4,4 +4,4 @@
 
 Possible use of AI ! 🤖🐍
 
-License MIT
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
